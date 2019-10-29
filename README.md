@@ -1,4 +1,4 @@
-[![Build Status]()]()
+[![Build Status]()](https://dev.azure.com/mseng/AzureDevOps/_apis/build/status/vscode-deploy-azure-CI)
 
 # Deploy to Azure from VS Code
 
